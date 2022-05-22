@@ -1,0 +1,1 @@
+This is a test file and it's content will be used to see if the files is decrypted or encrypted form the "hadat3ch-ransomware.py" script which will encrypt it and from the "hadat3ch-ransomware.py" which will decrypt it.
