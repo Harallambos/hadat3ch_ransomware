@@ -54,4 +54,4 @@ python3 hadat3ch-ransomware-decrypt.py
 # -------------------------------------
 <br>
 <br>
-It will ask you to enter the secret phrase which id "hadat3ch" and this will allow you to decrypt the files in the same folder.
+It will ask you to enter the secret phrase which is "hadat3ch" and this will allow you to decrypt the files in the same folder.
